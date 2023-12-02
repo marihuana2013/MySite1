@@ -1,0 +1,85 @@
+header{
+    background-color:darkcyan;
+    margin: 10px 0px;
+    padding: px 0px;
+    border-radius: 20px;
+}
+
+header img{
+    border-radius: 20px;
+    margin: 5px;
+}
+
+header b {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+nav {
+     margin: 10px 0px;
+    text-align: center;
+    background-color:royalblue ;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+nav a{
+    padding-right: 60px;
+    text-decoration: none; 
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 41, 128);
+    font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+}
+
+p {
+   
+}
+
+h2 {
+    text-align: center;
+    color: rgb(0, 41, 128);
+    font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+}
+
+footer {
+    background-color: lightskyblue;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+main {
+    background-color: lightskyblue;
+}
+
+.ff {
+text-align: center;
+font-size: 20px;
+}
+
+.rt {
+    text-align: center;
+    font-size: 20px;
+}
+
+.yu {
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+}
+
+.an {
+    font-size: 20px;
+}
+
+.vg {
+    text-decoration: none;
+    font-size: 20px;
+}
